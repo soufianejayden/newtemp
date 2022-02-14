@@ -80,6 +80,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   margin-top: 0;
+ font-family:
     }
 
 abbr[title],
@@ -7948,7 +7949,9 @@ flex sm row
   text-align: right !important; }
 
 .text-center {
-  text-align: center !important; }
+  text-align: center !important;
+font-family:cursive:
+line-height:3}
 
 @media (min-width: 576px) {
   .text-sm-left {
@@ -8158,7 +8161,7 @@ body {
   font-family: "Open Sans", Arial, sans-serif;
   background: #fff;
   font-size: 15px;
-  line-height: 1;
+  line-height: 1.8;
   font-weight: 400;
   color: gray; }
   body.menu-show {
@@ -9706,11 +9709,12 @@ textarea.form-control {
     /*ftco-footer*/
 
     .ftco-footer {
-  font-size: 14px;
+  font-size: 19px;
   padding: 7em 0;
   color: rgba(255, 255, 255, 0.8);
   background: #4e4e4e;
-  background: #000000; }
+  background: #000000;
+line-height:30px;}
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
     letter-spacing: .1em; }
@@ -10192,11 +10196,10 @@ ftco-counter  --------------------------------------------------------------*/
   padding: 0; }
   .block-23 ul li, .block-23 ul li > a {
     display: table;
-    line-height: 1.5;
-    margin-bottom: 15px; }
+     margin-bottom: 15px; }
   .block-23 ul li .icon, .block-23 ul li .text {
     display: table-cell;
-    vertical-align: top; }
+     }
   .block-23 ul li .icon {
     width: 40px;
     font-size: 18px;
