@@ -7950,8 +7950,8 @@ flex sm row
 
 .text-center {
   text-align: center !important;
-font-family:cursive:
-line-height:3}
+font-family:cursive;
+line-height:3;}
 
 @media (min-width: 576px) {
   .text-sm-left {
