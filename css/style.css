@@ -8347,8 +8347,7 @@ padding-bottom:20px;}
       -ms-border-radius: 0;
       border-radius: 0; }
       .ftco-navbar-light.scrolled .nav-item .dropdown-menu .dropdown-item {
-        font-size: 14px;
-        color: #000000; }
+         color: #000000; }
         .ftco-navbar-light.scrolled .nav-item .dropdown-menu .dropdown-item:hover, .ftco-navbar-light.scrolled .nav-item .dropdown-menu .dropdown-item:focus {
           background: transparent;
           color: #dbcc8f; }
