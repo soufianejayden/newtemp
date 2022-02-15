@@ -3481,8 +3481,7 @@ input[type="button"].btn-block {
     text-decoration: none; }
 
 .navbar-nav {
-  display: -webkit-box;
-  display: -ms-flexbox;
+   display: -ms-flexbox;
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
