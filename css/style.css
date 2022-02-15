@@ -8239,9 +8239,7 @@ h1, h2, h3, h4, h5,
     padding-right: 20px;
     font-weight: 400;
     color: #000000;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    opacity: 1 !important; }
+     opacity: 1 !important; }
     .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover {
       color: #000000; }
     @media (max-width: 991.98px) {
