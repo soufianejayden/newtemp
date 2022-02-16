@@ -4706,7 +4706,9 @@ a.close.disabled {
 .modal-open {
   overflow: hidden; }
   .modal-open .modal {
-     overflow-y: auto; }
+     overflow-y: auto;
+    overflow-x: hidden;
+}
 
 .modal {
   position: fixed;
