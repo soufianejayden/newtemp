@@ -8262,7 +8262,9 @@ h1, h2, h3, h4, h5,
     border-radius: 0; }
     .ftco-navbar-light .navbar-nav > .nav-item .dropdown-menu .dropdown-item {
       font-size: 14px;
-      color: #fff; }
+      color: #fff; 
+     line-height:2;
+}
       .ftco-navbar-light .navbar-nav > .nav-item .dropdown-menu .dropdown-item:hover, .ftco-navbar-light .navbar-nav > .nav-item .dropdown-menu .dropdown-item:focus {
         background: transparent;
         color: #dbcc8f; }
