@@ -8231,9 +8231,7 @@ h1, h2, h3, h4, h5,
       padding-bottom: 10px; } }
   .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
     font-size: 15px;
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
-    padding-left: 20px;
+     padding-left: 20px;
     padding-right: 20px;
     font-weight: 400;
     color: #000000;
@@ -8262,6 +8260,8 @@ h1, h2, h3, h4, h5,
       font-size: 14px;
        color: #fff; 
        line-height:2;
+     display:block;
+     padding-left:1rem;
 }
       .ftco-navbar-light .navbar-nav > .nav-item .dropdown-menu .dropdown-item:hover, .ftco-navbar-light .navbar-nav > .nav-item .dropdown-menu .dropdown-item:focus {
         background: transparent;
