@@ -8236,6 +8236,7 @@ h1, h2, h3, h4, h5,
     font-weight: 400;
     color: #000000;
      letter-spacing: 2px;
+     margin-bottom:3px
     opacity: 1 !important; }
     .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover {
       color: #000000; }
