@@ -315,11 +315,12 @@
   <script src="js/main.js"></script>
  <script src="37successfulmsgonsubmit.js"></script>
 
-    <script>
+     <script>
+  
 function message(){
     var Name = document.getElementById('YourName');
-    var email = document.getElementById('YourEmail');  
-    var Subject = document.getElementById('Subject');
+    var email = document.getElementById('YourEmail');
+    var msg = document.getElementById('Subject');
     var Message = document.getElementById('Message');
     const success = document.getElementById('success');
     const danger = document.getElementById('danger');
@@ -333,7 +334,6 @@ function message(){
           YourEmail.value = '';
           Subject.value = '';
           Message.value = '';
-
         }, 2000);
 
         success.style.display = 'block';
@@ -349,5 +349,6 @@ function message(){
 
 
  </script>
+
   </body>
 </html>
